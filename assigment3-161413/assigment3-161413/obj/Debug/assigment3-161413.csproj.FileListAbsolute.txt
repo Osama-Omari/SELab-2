@@ -1,0 +1,9 @@
+C:\Users\seexam\Desktop\assigment3-161413\assigment3-161413\bin\Debug\assigment3-161413.exe.config
+C:\Users\seexam\Desktop\assigment3-161413\assigment3-161413\bin\Debug\assigment3-161413.exe
+C:\Users\seexam\Desktop\assigment3-161413\assigment3-161413\bin\Debug\assigment3-161413.pdb
+C:\Users\seexam\Desktop\assigment3-161413\assigment3-161413\obj\Debug\assigment3-161413.csprojResolveAssemblyReference.cache
+C:\Users\seexam\Desktop\assigment3-161413\assigment3-161413\obj\Debug\assigment3_161413.Form1.resources
+C:\Users\seexam\Desktop\assigment3-161413\assigment3-161413\obj\Debug\assigment3_161413.Properties.Resources.resources
+C:\Users\seexam\Desktop\assigment3-161413\assigment3-161413\obj\Debug\assigment3-161413.csproj.GenerateResource.Cache
+C:\Users\seexam\Desktop\assigment3-161413\assigment3-161413\obj\Debug\assigment3-161413.exe
+C:\Users\seexam\Desktop\assigment3-161413\assigment3-161413\obj\Debug\assigment3-161413.pdb

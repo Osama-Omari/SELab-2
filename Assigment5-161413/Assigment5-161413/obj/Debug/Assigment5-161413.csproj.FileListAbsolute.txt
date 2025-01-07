@@ -1,0 +1,10 @@
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\bin\Debug\Assigment5-161413.exe.config
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\bin\Debug\Assigment5-161413.exe
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\bin\Debug\Assigment5-161413.pdb
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\obj\Debug\Assigment5-161413.csproj.AssemblyReference.cache
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\obj\Debug\Assigment5_161413.Form1.resources
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\obj\Debug\Assigment5_161413.Properties.Resources.resources
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\obj\Debug\Assigment5-161413.csproj.GenerateResource.cache
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\obj\Debug\Assigment5-161413.csproj.CoreCompileInputs.cache
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\obj\Debug\Assigment5-161413.exe
+C:\Users\ORZOm\Desktop\Assigment5-161413\Assigment5-161413\obj\Debug\Assigment5-161413.pdb

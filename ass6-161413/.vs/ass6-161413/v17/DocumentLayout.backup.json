@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ORZOm\\Desktop\\SElab\\ass6-161413\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADD024-041B-4995-AA92-AC51D7B161A2}|ass6-161413\\ass6-161413.csproj|c:\\users\\orzom\\desktop\\selab\\ass6-161413\\ass6-161413\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADD024-041B-4995-AA92-AC51D7B161A2}|ass6-161413\\ass6-161413.csproj|solutionrelative:ass6-161413\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADD024-041B-4995-AA92-AC51D7B161A2}|ass6-161413\\ass6-161413.csproj|C:\\Users\\ORZOm\\Desktop\\SElab\\ass6-161413\\ass6-161413\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADD024-041B-4995-AA92-AC51D7B161A2}|ass6-161413\\ass6-161413.csproj|solutionrelative:ass6-161413\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\SElab\\ass6-161413\\ass6-161413\\Form1.cs",
+              "RelativeDocumentMoniker": "ass6-161413\\Form1.cs",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\SElab\\ass6-161413\\ass6-161413\\Form1.cs",
+              "RelativeToolTip": "ass6-161413\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:26:13.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\SElab\\ass6-161413\\ass6-161413\\Form1.cs",
+              "RelativeDocumentMoniker": "ass6-161413\\Form1.cs",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\SElab\\ass6-161413\\ass6-161413\\Form1.cs [Design]",
+              "RelativeToolTip": "ass6-161413\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:25:44.382Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ORZOm\\Desktop\\SElab\\assigment4-161413\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44A00BAD-CB41-49FA-9DE3-A077160EFB3E}|assigment4-161413\\assigment4-161413.csproj|C:\\Users\\ORZOm\\Desktop\\SElab\\assigment4-161413\\assigment4-161413\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44A00BAD-CB41-49FA-9DE3-A077160EFB3E}|assigment4-161413\\assigment4-161413.csproj|solutionrelative:assigment4-161413\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A00BAD-CB41-49FA-9DE3-A077160EFB3E}|assigment4-161413\\assigment4-161413.csproj|C:\\Users\\ORZOm\\Desktop\\SElab\\assigment4-161413\\assigment4-161413\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A00BAD-CB41-49FA-9DE3-A077160EFB3E}|assigment4-161413\\assigment4-161413.csproj|solutionrelative:assigment4-161413\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A00BAD-CB41-49FA-9DE3-A077160EFB3E}|assigment4-161413\\assigment4-161413.csproj|c:\\users\\orzom\\desktop\\selab\\assigment4-161413\\assigment4-161413\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A00BAD-CB41-49FA-9DE3-A077160EFB3E}|assigment4-161413\\assigment4-161413.csproj|solutionrelative:assigment4-161413\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\SElab\\assigment4-161413\\assigment4-161413\\Person.cs",
+              "RelativeDocumentMoniker": "assigment4-161413\\Person.cs",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\SElab\\assigment4-161413\\assigment4-161413\\Person.cs",
+              "RelativeToolTip": "assigment4-161413\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:10:49.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\SElab\\assigment4-161413\\assigment4-161413\\Form1.cs",
+              "RelativeDocumentMoniker": "assigment4-161413\\Form1.cs",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\SElab\\assigment4-161413\\assigment4-161413\\Form1.cs",
+              "RelativeToolTip": "assigment4-161413\\Form1.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAhwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:47:00.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\SElab\\assigment4-161413\\assigment4-161413\\Form1.cs",
+              "RelativeDocumentMoniker": "assigment4-161413\\Form1.cs",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\SElab\\assigment4-161413\\assigment4-161413\\Form1.cs [Design]",
+              "RelativeToolTip": "assigment4-161413\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:10:45.611Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
